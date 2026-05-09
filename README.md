@@ -18,7 +18,7 @@ I enjoy building scalable and user-friendly applications and learning new techno
 - Python
 
 ### 📱 Mobile Development
-- Android (Java/Kotlin)
+- Android (Java)
 - Flutter
 
 ### 🗄️ Databases
