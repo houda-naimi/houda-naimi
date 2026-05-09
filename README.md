@@ -1,9 +1,5 @@
 ## Hi there, I'm Houda 👋
-
-## 💻 About Me
 I'm a Software Engineer.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +25,13 @@ I'm a Software Engineer.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Databases
-- Relational databases: MySQL, SQL Server
-- NoSQL databases: MongoDB
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 ⭐ *Always open to new opportunities and collaborations!*
+
 
 <!--
 **houda-naimi/houda-naimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
