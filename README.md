@@ -2,7 +2,7 @@
 I'm a junior Software Engineer.
 I focus on developing end-to-end applications and using data-driven approaches to generate meaningful insights for decision-making.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -25,7 +25,7 @@ I focus on developing end-to-end applications and using data-driven approaches t
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
