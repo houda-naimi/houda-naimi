@@ -1,8 +1,7 @@
 ## Hi there, I'm Houda 👋
 
 ## 💻 About Me
-I'm a software engineering graduate and a full-stack developer.  
-I enjoy building scalable and user-friendly applications and learning new technologies.
+I'm a Software Engineer.
 
 ---
 
