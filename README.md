@@ -1,8 +1,8 @@
-## Hi there, I'm Houda 👋
+## 👋 Hi there, I'm Houda 
 I'm a junior Software Engineer.
 I focus on developing end-to-end applications and using data-driven approaches to generate meaningful insights for decision-making.
 
-## Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
