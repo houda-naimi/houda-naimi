@@ -1,5 +1,6 @@
 ## Hi there, I'm Houda 👋
-I'm a Software Engineer.
+I'm a junior Software Engineer.
+I focus on developing end-to-end applications and using data-driven approaches to generate meaningful insights for decision-making.
 
 ## 🛠️ Tech Stack
 
