@@ -1,4 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Houda 👋
+
+## 💻 About Me
+I'm a software engineering graduate and a full-stack developer.  
+I enjoy building scalable and user-friendly applications and learning new technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Frontend
+- Angular
+- HTML / CSS / JavaScript / TypeScript
+
+### ⚙️ Backend
+- Java
+- .NET
+- Python
+
+### 📱 Mobile Development
+- Android (Java/Kotlin)
+- Flutter
+
+### 🗄️ Databases
+- Relational databases: MySQL, SQL Server
+- NoSQL databases: MongoDB
+
+---
+⭐ *Always open to new opportunities and collaborations!*
 
 <!--
 **houda-naimi/houda-naimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
